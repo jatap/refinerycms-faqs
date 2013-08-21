@@ -1,14 +1,34 @@
 # FAQ extension for Refinery CMS.
 
-Manage FAQs in Refinery CMS.
+This gem extends Christian Rijke work in [refinerycms-faqs](https://github.com/cnrk/refinerycms-faqs).
 
 ## FAQs
 
-A FAQ has a
+A FAQ has a:
 
 * question
 * answer
 
-## FAQ index page
+## FAQs  pages
 
-The FAQ index page lists all questions and answers.
+* **index**
+
+  Lists all questions and answers.
+
+* **show**
+
+  List selected question and answer.
+
+## FAQs  search
+
+Each FAQ entry can be searched (refinerycms-search).
+
+
+## TODO
+
+* Add more detailed tests.
+
+
+## Author
+
+[Julio Antúnez Tarín](http://www.twitter.com/jatap)
