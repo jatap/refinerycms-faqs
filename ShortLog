@@ -1,0 +1,16 @@
+Christian Rijke (11):
+      generate FAQ engine
+      simplify read me and Gemfile, bundle update
+      add accordion effect to FAQ
+      re-enable the faq "show" route, the backend requires it..
+      replace query ui accordion with something simpler..
+      add author to gemspec
+      Bundle update.
+      Remove spork and unused stuff.
+      Fix description in readme.
+      Use stable versions as dependency
+      Bump version.
+
+Julio Antúnez Tarín (1):
+      - Add extra features (see readme).
+
