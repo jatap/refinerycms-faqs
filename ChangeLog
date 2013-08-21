@@ -1,0 +1,71 @@
+commit 066161c60fe5a7bddd489220b0c4116bd8cb4580
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Aug 21 04:26:31 2013 +0200
+
+    - Add extra features (see readme).
+
+commit a1e3c2f2067c209efdead0591e4e40dcee0c50e8
+Author: Christian Rijke <crijke@gmail.com>
+Date:   Wed Jul 3 16:50:59 2013 +0200
+
+    Bump version.
+
+commit b36346794e69ce11b2f46d5ec10f5408af0d50c8
+Author: Christian Rijke <crijke@gmail.com>
+Date:   Wed Jul 3 16:50:31 2013 +0200
+
+    Use stable versions as dependency
+
+commit 0917098ca8dff3e3da617ac1bd48ef3b209e2fc6
+Author: Christian Rijke <crijke@gmail.com>
+Date:   Wed Jul 3 16:48:54 2013 +0200
+
+    Fix description in readme.
+
+commit 3a4f6a18cf871f9ee9eb446b42a0631acb618038
+Author: Christian Rijke <crijke@gmail.com>
+Date:   Wed Jul 3 16:48:43 2013 +0200
+
+    Remove spork and unused stuff.
+
+commit 9a73878adf5e2f0badebc85c44402fce379876ff
+Author: Christian Rijke <crijke@gmail.com>
+Date:   Sat May 25 18:57:32 2013 +0200
+
+    Bundle update.
+
+commit 8ddf1a646a519b94246d627a807ec78f402c9fbd
+Author: Christian Rijke <crijke@gmail.com>
+Date:   Wed Oct 31 00:41:55 2012 +0100
+
+    add author to gemspec
+
+commit 5cb0adc5cc9f53c0836ab7f3b191f266dfd41a5d
+Author: Christian Rijke <crijke@gmail.com>
+Date:   Wed Sep 5 01:45:45 2012 +0200
+
+    replace query ui accordion with something simpler..
+
+commit 422b9622cae395057da89a372f40d128c3cfb768
+Author: Christian Rijke <crijke@gmail.com>
+Date:   Tue Sep 4 23:43:10 2012 +0200
+
+    re-enable the faq "show" route, the backend requires it..
+
+commit bf38b91f6188486c03d05df82657e9a6559b8aba
+Author: Christian Rijke <crijke@gmail.com>
+Date:   Tue Sep 4 23:16:35 2012 +0200
+
+    add accordion effect to FAQ
+
+commit ec90fbf72a6da760dcc569f0d94c3b2989222466
+Author: Christian Rijke <crijke@gmail.com>
+Date:   Tue Sep 4 21:05:45 2012 +0200
+
+    simplify read me and Gemfile, bundle update
+
+commit 9bea3498e354786afbbfb46a2de9bc8b5906f0cc
+Author: Christian Rijke <crijke@gmail.com>
+Date:   Tue Sep 4 20:55:08 2012 +0200
+
+    generate FAQ engine
